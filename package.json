@@ -1,6 +1,6 @@
 {
   "name": "bbips",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "cli app to get current IP addresses of Bitbucket",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "commander": "^2.2.0"
   },
   "bin": {
-    "bbips": "bbips.js"
+    "bbips": "bin/bbips.js"
   },
   "devDependencies": {},
   "repository": {

@@ -19,5 +19,17 @@
   "dependencies": {
     "bitbucket-ips": "0.0.1",
     "commander": "^2.2.0"
-  }
+  },
+  "bin": {
+    "bbips": "bbips.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/diorahman/bbips.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diorahman/bbips/issues"
+  },
+  "homepage": "https://github.com/diorahman/bbips"
 }
